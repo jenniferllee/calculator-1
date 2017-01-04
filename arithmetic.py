@@ -16,7 +16,7 @@ def divide(num1, num2):
 
 def square(num):
     """Return the square of a number"""
-    pass
+    return num ** 2
 
 def cube(num):
     """Return the cube of a number"""
